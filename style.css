@@ -1,0 +1,28 @@
+.container{
+    text-align: center;
+    margin: auto;
+}
+body{
+    background-color: rgb(47, 122, 97);
+}
+h1{
+    color: rgb(255, 195, 215);
+    font-family: 'Pixelify Sans', cursive;
+    text-shadow: 2px 2px black;
+    font-size: 8rem;
+    margin: 10px;
+}
+.dice{
+    color: #ffcdcd;
+    font-family: 'Alfa Slab One', cursive;
+    text-align: center;
+    display: inline-block;
+    margin: none;
+    font-size: 3rem;
+    text-shadow: 3px 3px rgb(226, 128, 43);
+
+}
+img{
+    margin: 20px;
+    height: 200px;
+}
